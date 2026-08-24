@@ -1,33 +1,31 @@
 # Relationship Website Mobile
+Sebuah website untuk hubungan LDR (menghitung hari sejak jadian, isi pesan tertentu dengan beberapa kenangan berupa foto dan beberapa lagu) dan ucapan ulang tahun
+## 🚀 Instalasi
 
-A **mobile-optimized web application** built with **React, Vite, and Tailwind CSS**, designed to enhance relationship interactions through a fun and personalized web experience.
-
-## 🚀 Installation
-
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone Repo
 
 ```bash
 git clone https://github.com/rheinatamara/relationship_website_mobile.git
 cd relationship_website_mobile
 ```
 
-### 2️⃣ Install Dependencies
+### 2️⃣ Instal Dependensi
 
-Ensure you have **[Node.js](https://nodejs.org/)** installed. Then, run:
+Pastikan kamu sudah install **[Node.js](https://nodejs.org/)** Lalu, jalankan:
 
 ```bash
 npm install
 ```
 
-### 3️⃣ Start the Development Server
+### 3️⃣ cara dev server (PAKAI NPM)
 
 ```bash
 npm run dev
 ```
 
-### 4️⃣ Access the Application
+### 4️⃣ Akses 
 
-Open your browser and navigate to **[http://localhost:5173/](http://localhost:5173/)** to view the application.
+Buka browsermu **[http://localhost:5173/](http://localhost:5173/)** untuk lihat hasil
 
 ---
 
